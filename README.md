@@ -4,8 +4,6 @@
 Evaluación de la Segunda Unidad · Inteligencia Artificial
 Código de matrícula: 022100269G · **Semilla individual: 69** (`torch.manual_seed(69)`, `np.random.seed(69)`)
 
-Repositorio: https://github.com/OmiRam19/cnn-cifar10
-
 ## Estructura
 
 ```
